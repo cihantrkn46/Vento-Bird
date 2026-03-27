@@ -3,7 +3,7 @@
 
 Vento Bird, retro arcade mekaniklerini modern ve huzurlu bir tasarımla birleştiren, tarayıcı tabanlı bir beceri oyunudur. "Zen" odaklı görsel yapısı ve akıcı oynanışıyla hem rahatlatıcı hem de rekabetçi bir deneyim sunar.
 
-🔗 **Hemen Oyna:** [https://cihantrkn46.github.io/VITALIUM/ventobird/](https://cihantrkn46.github.io/VITALIUM/ventobird/)
+🔗 **Hemen Oyna:** [https://cihantrkn46.github.io/Vento-Bird/)
 
 
 ---
